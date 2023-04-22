@@ -1,0 +1,24 @@
+html {
+  font-family: "Nunito", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.header {
+  background: #FFDE40;
+  border-radius: 0px 0px 15px 15px;
+}
+
+.header__container {
+  display: flex;
+}
+
+button {
+  background: #A68900;
+  font-family: "Nunito";
+  border-radius: 45px;
+  border-width: 0px;
+  color: #fff;
+}

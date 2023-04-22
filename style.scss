@@ -1,0 +1,29 @@
+$main_color : #FFDE40;
+$Second_color : #FFD300;
+$therd_color : #A68900;
+
+
+
+html {
+    font-family: 'Nunito', sans-serif;
+
+}
+body {
+    margin: 0;
+}
+
+.header {
+background: $main_color;
+border-radius: 0px 0px 15px 15px;
+}
+.header__container {
+    display: flex;
+}
+
+button {
+    background: $therd_color;
+    font-family: "Nunito";
+    border-radius: 45px;
+    border-width: 0px;
+    color: #fff;
+}
